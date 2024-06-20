@@ -25,6 +25,8 @@ hamburger-killer/
 │ └── hamburger3.jpg
 └── README.md
 
+## Link Netlify: https://hamburgerkill.netlify.app/
+
 
 - `index.html`: Berkas utama yang berisi kode HTML untuk halaman web.
 - `assets/`: Direktori yang berisi gambar-gambar hamburger yang digunakan di halaman web.
@@ -65,26 +67,27 @@ Kami sangat terbuka terhadap kontribusi! Jika Anda memiliki saran atau perbaikan
 
 
 
-# About me 
+# About Me
+
+### Hi there 👋, I'm Satria
 
 
-<h3 align="center">Hi 👋, I'm Satria</h3>
+![Foto Profil](Foto.JPG) -->
 
-<img src="Foto.JPG" alt="">
+## I Love Cats 🐱
 
-## I love Cat
+> **Fun Fact**: I think I am funny 😄
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cimengmot&label=Profile%20views&color=0e75b6&style=flat" alt="cimengmot" /> </p>
+📫 How to reach me: **satrialimpad@gmail.com**
 
-- 📫 How to reach me **satrialimpad@gmail.com**
+### Connect with Me
 
-- ⚡ Fun fact **I think I am funny**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satrialimpad)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#8444)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/satriaa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/satriaa2" height="30" width="40" /></a>
-<a href="https://discord.gg/#8444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8444" height="30" width="40" /></a>
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cimengmot&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cimengmot&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cimengmot&show_icons=true&locale=en&layout=compact" alt="cimengmot" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cimengmot&show_icons=true&locale=en" alt="cimengmot" /></p>
