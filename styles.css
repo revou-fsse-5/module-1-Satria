@@ -160,7 +160,7 @@ footer {
         flex-direction: column;
         align-items: flex-start;
         background: rgba(0, 0, 0, 0.8);
-        width: 100%;
+        width: 480%;
     }
     .navbar a {
         padding: 10px 20px;
