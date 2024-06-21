@@ -150,13 +150,13 @@ footer {
         max-width: 100%;
     }
     nav {
-        display: block;
+        display: none;
     }
     .menu-btn {
-        display: block;
+        display: none;
     }
     .navbar {
-        display: block;
+        display: none;
         flex-direction: column;
         align-items: flex-start;
         background: rgba(0, 0, 0, 0.8);
