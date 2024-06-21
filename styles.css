@@ -150,20 +150,20 @@ footer {
         max-width: 100%;
     }
     nav {
-        
+        display: block;
     }
     .menu-btn {
         display: block;
     }
     .navbar {
-        display: none;
+        display: block;
         flex-direction: column;
         align-items: flex-start;
         background: rgba(0, 0, 0, 0.8);
         width: 100%;
     }
     .navbar a {
-        padding: 10px 20px;
+        padding: 10px 2px;
         width: 100%;
         text-align: left;
     }
